@@ -7,7 +7,7 @@ SUST 2022Spring CS205 Final Project
 ## Introduction
 The topic of this project is HCI(Human Computer Interaction).
 We used C++ and OpenCV to implement the goals of this project.
-You can check the introduction and specific requirements of this project in project_hci.doc
+You can check the introduction and specific requirements of this project in project_hci.docx
 
 ## Task
 * Read and Write image from computer and camera
@@ -17,4 +17,5 @@ You can check the introduction and specific requirements of this project in proj
 * Bind the shape to mouse event
 
 ## Implementation
-Please check the presentation and report
+You can check the presentation and report to get our idea, including the basic content, highlights, difficulties, novelties in the project.
+Also, you can check the our source code under the `code` directory.
