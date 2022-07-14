@@ -1,5 +1,5 @@
 # CS205_Cpp_Programming
-SUST 2022Spring CS205 Final Project
+SUST 2022Spring CS205 Final Project  
 **Score**: 100/100
 
 ## Team Members
