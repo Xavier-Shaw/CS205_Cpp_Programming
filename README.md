@@ -1,8 +1,9 @@
 # CS205_Cpp_Programming
 SUST 2022Spring CS205 Final Project
+**Score**: 100/100
 
 ## Team Members
-12012902 肖煜玮 & 12012711 杨家鉴
+12012902 Yuwei Xiao & 12012711 Jiajian Yang
 
 ## Introduction
 The topic of this project is HCI(Human Computer Interaction).
